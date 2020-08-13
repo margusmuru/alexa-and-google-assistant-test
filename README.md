@@ -1,6 +1,12 @@
-# alexa-test
-Returns my CS:GO inventory value using csgobackpack.net
-
+# Alexa and Google Assistant test
+Returns CS:GO inventory value using csgobackpack.net
+<br>
+<br>
+Code in this repo is meant to run in AWS lambda and be invoked through API gateway by Dialogflow or Alexa console.
+<br>
+<br>
+<br>
+<br>
 [Alexa developer console](https://developer.amazon.com/alexa/console/ask)
 
 [AWS management console](https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1#)
