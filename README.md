@@ -15,3 +15,7 @@ Returns my CS:GO inventory value using csgobackpack.net
 <br>
 <br>
 To run, replace steamID in config.properties file with an actual ID and run csgoInventory.TestExecutable
+
+To build JAR for AWS, run "gradle fatJar"
+<br>
+Flow: Google Actions -> Dialogflow -> Amazon API Gateway -> AWS Lambda -> 3rd party web service.
